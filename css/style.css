@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(254, 255, 236);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.conteudoLocalizacao{
+    font-size: 1.5em;
+}
+
+.rodape{
+    text-align: center;
+    border-radius: 5%;
+}
+
+.cabecalhoConteudo{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.botao{
+    background-color: rgba(69, 71, 163, 0.3);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+}
+
+#produtos{
+ text-align: center;
+}
