@@ -46,12 +46,18 @@ body {
     height: 50px;
     background-color: rgb(225, 230, 132);
 }
+h1{
+    text-align: center;
+}
 
 .logo{
 margin-left: 10%;
+font-size: 2rem;
 }
 
 .nav{
- margin-left: 50%;
+    margin-left: 50%;
+}
+a:link{
  text-decoration: none;
 }
